@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Are You Online Ready?</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="assessment.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+
+    <header>
+    <img class="logo" src="images/c-splash.png" alt="Cleveland Community College" title="Cleveland Community College">
+    </header>
+
+<div id="container">
+
+<img src="images/OLR_Logo.png" alt="Are you online ready?" class="image-cent">
+<h1 class="main">Online Readiness Assessment</h1>
+
+<p>Online classes are common at colleges and universities all around the country. While working to complete your program here at Cleveland Community College, you might encounter the need to take a course online. Online courses are different from the traditional courses you might be used to and require a different set of skills for you to be successful. This assessment will help you identify your potential for success in online classes and offer suggestions to help you improve your skills.</p>
+
+<p>Please think carefully about each question. Answer them honestly and to the best of your ability. <strong>The results of this assessment will not impact any grade or your ability to take online courses in any way.</strong> This only allows us to have the information we need to provide you with the resources to make sure that you’re successful. Once you’re finished, click the “Print” button at the bottom of the page to print your results. Take your printed results to your advisor so they can give you further assistance and help create a plan to meet your needs.</p>
+
+<div id="firstname">
+<p>Now that we have all that out of the way, let's get started with some personal information. What is your first name?</p>
+<input type="text" class="fnamein" id="fnamein" required><br>
+<span class='frequired' style='color: red; display: none;'>First name is required</span>
+<button class="n1">Next</button>
+</div>
+
+<div id="lastname">
+<p>Thanks, <span class="name"></span>. What is your last name?</p>
+<input type="text" class="lnamein" id="lnamein" required><br>
+<span class='lrequired' style='color: red; display: none;'>Last name is required</span>
+<button class="n2">Next</button>
+</div>
+
+<div id="idin">
+<p>Now, what is your student ID number? If you don't have a student ID number yet, you can leave this blank.</p>
+<input type="text" class="idin" id="idin"><br>
+<button class="n3">Next</button>
+</div>
+
+<div id="assessment">
+<p class="getstarted">Alright, <span class="name"></span>. That's all the personal information we need. Let's get started with the assessment.</p>
+  <form>
+<fieldset>
+<legend>Question 1</legend>
+<p>Do you own a computer?</p>
+<span class="selectans"><input type="radio" name="q1" value="3" id="q1-a" class="a"><label for="q1-a">Yes. I bought a new computer within the last three years.</label></span><br>
+<span class="selectans"><input type="radio" name="q1" value="2" id="q1-b" class="b"><label for="q1-b">Yes. I own a computer but it’s a little older (between 4-8 years).</label></span><br>
+<span class="selectans"><input type="radio" name="q1" value="1" id="q1-c" class="c"><label for="q1-c">Yes. I own a computer but it’s very old and slow.</label></span><br>
+<span class="selectans"><input type="radio" name="q1" value="0" id="q1-d" class="d"><label for="q1-d">No. I do not own a computer.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 2</legend>
+<p>OK, <span class="name"></span>, when it comes to using a computer, how would you describe your skills?</p>
+<span class="selectans"><input type="radio" name="q2" value="3" id="q2-a" class="a"><label for="q2-a">I’m an expert. I can do anything on a computer.</label></span><br>
+<span class="selectans"><input type="radio" name="q2" value="2" id="q2-b" class="b"><label for="q2-b">I’m pretty good. I know how to create and edit documents, use the internet for research, and communicate online, but I wouldn’t consider myself an expert.</label></span><br>
+<span class="selectans"><input type="radio" name="q2" value="1" id="q2-c" class="c"><label for="q2-c">I can do basic things like browse the internet or use Microsoft Word, but I don’t know how to do much else.</label></span><br>
+<span class="selectans"><input type="radio" name="q2" value="0" id="q2-d" class="d"><label for="q2-d">I have no idea how to use a computer.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 3</legend>
+<p>Do you have the internet at home?</p>
+<span class="selectans"><input type="radio" name="q3" value="3" id="q3-a" class="a"><label for="q3-a">Yes. I have high-speed internet at home with Wi-Fi.</label></span><br>
+<span class="selectans"><input type="radio" name="q3" value="2" id="q3-b" class="b"><label for="q3-b">Yes. I have high-speed internet at home, but I have to plug a wire into my computer.</label></span><br>
+<span class="selectans"><input type="radio" name="q3" value="1" id="q3-c" class="c"><label for="q3-c">Yes. I have dial-up/satellite internet at home.</label></span><br>
+<span class="selectans"><input type="radio" name="q3" value="0" id="q3-d" class="d"><label for="q3-d">No. I do not have internet at home.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 4</legend>
+<p>How comfortable are you at using the internet?</p>
+<span class="selectans"><input type="radio" name="q4" value="3" id="q4-a" class="a"><label for="q4-a">I’m an expert. I can use search engines with advanced options, setting bookmarks, and downloading files.</label></span><br>
+<span class="selectans"><input type="radio" name="q4" value="2" id="q4-b" class="b"><label for="q4-b">I’m pretty good. I use a good search engine and I can set bookmarks and download files. I wouldn’t call myself an expert though.</label></span><br>
+<span class="selectans"><input type="radio" name="q4" value="1" id="q4-c" class="c"><label for="q4-c">I use the internet to do some basic searches and social media, but that’s about it.</label></span><br>
+<span class="selectans"><input type="radio" name="q4" value="0" id="q4-d" class="d"><label for="q4-d">I don’t really use the internet, maybe just for social media or YouTube</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 5</legend>
+<p>How do you deal with learning new technology?</p>
+<span class="selectans"><input type="radio" name="q5" value="3" id="q5-a" class="a"><label for="q5-a">I always stay up-to-date with the latest technology and love learning everything about new tech.</label></span><br>
+<span class="selectans"><input type="radio" name="q5" value="2" id="q5-b" class="b"><label for="q5-b">When I hear about something I could be interested in, I go out and research it to learn more.</label></span><br>
+<span class="selectans"><input type="radio" name="q5" value="1" id="q5-c" class="c"><label for="q5-c">I wait a while for other people to learn about new technology, so they can teach it to me.</label></span><br>
+<span class="selectans"><input type="radio" name="q5" value="0" id="q5-d" class="d"><label for="q5-d">I avoid new technology.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 6</legend>
+<p>Some courses may require you to use other hardware and software for you to complete assignments. How would you describe your skills with web cams, recording audio on your computer, and productivity software (Microsoft Word, Microsoft Excel, Microsoft Powerpoint, etc.)?</p>
+<span class="selectans"><input type="radio" name="q6" value="3" id="q6-a" class="a"><label for="q6-a">I’m an expert at using web cams, recording software, and productivity software. I can do it all.</label></span><br>
+<span class="selectans"><input type="radio" name="q6" value="2" id="q6-b" class="b"><label for="q6-b">I’m pretty good at using these tools but I wouldn’t call myself an expert.</label></span><br>
+<span class="selectans"><input type="radio" name="q6" value="1" id="q6-c" class="c"><label for="q6-c">I’ve had some experience using a few of these tools but have never used others.</label></span><br>
+<span class="selectans"><input type="radio" name="q6" value="0" id="q6-d" class="d"><label for="q6-d">I’ve never used any of these tools.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 7</legend>
+<p>What are your general impressions of online courses?</p>
+<span class="selectans"><input type="radio" name="q7" value="3" id="q7-a" class="a"><label for="q7-a">They’re a great way to work a challenging course into my schedule.</label></span><br>
+<span class="selectans"><input type="radio" name="q7" value="2" id="q7-b" class="b"><label for="q7-b">Online classes let you turn things in whenever you want.</label></span><br>
+<span class="selectans"><input type="radio" name="q7" value="1" id="q7-c" class="c"><label for="q7-c">Online classes are easier than regular classes and require less work.</label></span><br>
+<span class="selectans"><input type="radio" name="q7" value="0" id="q7-d" class="d"><label for="q7-d">Online classes are bad, and you don’t learn anything.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 8</legend>
+<p>How would you describe your personality, <span class="name"></span>?</p>
+<span class="selectans"><input type="radio" name="q8" value="3" id="q8-a" class="a"><label for="q8-a">I am very outgoing and personable. I’ve never met a stranger. I’m always willing to jump in the conversation.</label></span><br>
+<span class="selectans"><input type="radio" name="q8" value="2" id="q8-b" class="b"><label for="q8-b">I am outgoing, but it can take some time getting accustomed to a new setting. Once I warm up, I enjoy participating.</label></span><br>
+<span class="selectans"><input type="radio" name="q8" value="1" id="q8-c" class="c"><label for="q8-c">I’m reserved and quiet, but I will participate if I have to.</label></span><br>
+<span class="selectans"><input type="radio" name="q8" value="0" id="q8-d" class="d"><label for="q8-d">I’m a complete introvert and don’t like communicating with others.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 9</legend>
+<p>How would you say that you learn the best?</p>
+<span class="selectans"><input type="radio" name="q9" value="3" id="q9-a" class="a"><label for="q9-a">I can learn concepts from reading.</label></span><br>
+<span class="selectans"><input type="radio" name="q9" value="2" id="q9-b" class="b"><label for="q9-b">I can learn concepts from listening or watching videos.</label></span><br>
+<span class="selectans"><input type="radio" name="q9" value="1" id="q9-c" class="c"><label for="q9-c">I need hands-on experience to learn a concept.</label></span><br>
+<span class="selectans"><input type="radio" name="q9" value="0" id="q9-d" class="d"><label for="q9-d">I need another person to walk me through a concept in order to learn it.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 10</legend>
+<p>How would you describe your writing?</p>
+<span class="selectans"><input type="radio" name="q10" value="3" id="q10-a" class="a"><label for="q10-a">I’m excellent at communicating my thoughts and ideas through writing.</label></span><br>
+<span class="selectans"><input type="radio" name="q10" value="2" id="q10-b" class="b"><label for="q10-b">I am good at communicating through writing. I might have a few spelling or grammar errors, but it doesn’t usually impact what I’m trying to say.</label></span><br>
+<span class="selectans"><input type="radio" name="q10" value="1" id="q10-c" class="c"><label for="q10-c">I struggle at writing. It doesn’t come easy to me and, sometimes, it is hard to understand what I’m trying to say. Usually, however, I can do ok.</label></span><br>
+<span class="selectans"><input type="radio" name="q10" value="0" id="q10-d" class="d"><label for="q10-d">I don’t communicate through writing very well. I would rather talk about what I need to say.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 11</legend>
+<p>When it comes to reading, how would you describe your skills?</p>
+<span class="selectans"><input type="radio" name="q11" value="3" id="q11-a" class="a"><label for="q11-a">I can read, understand, and follow instructions very easily.</label></span><br>
+<span class="selectans"><input type="radio" name="q11" value="2" id="q11-b" class="b"><label for="q11-b">I can usually read and understand instructions. Sometimes I might need a bit more clarification.</label></span><br>
+<span class="selectans"><input type="radio" name="q11" value="1" id="q11-c" class="c"><label for="q11-c">I can read and understand instruction, but often times I will need them to be explained a little more.</label></span><br>
+<span class="selectans"><input type="radio" name="q11" value="0" id="q11-d" class="d"><label for="q11-d">I need someone to explain instructions to me personally.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 12</legend>
+<p>While taking an online course, how important do you think it would be to communicate with your instructor?</p>
+<span class="selectans"><input type="radio" name="q12" value="3" id="q12-a" class="a"><label for="q12-a">It is very important to stay in regular communication with my instructor. Asking questions and getting feedback helps me to learn.</label></span><br>
+<span class="selectans"><input type="radio" name="q12" value="2" id="q12-b" class="b"><label for="q12-b">I’ll ask my instructor a question if I have a problem. Otherwise, I don’t think it’s important.</label></span><br>
+<span class="selectans"><input type="radio" name="q12" value="1" id="q12-c" class="c"><label for="q12-c">I like getting feedback on my assignments from my instructor, but I won’t contact my instructor unless absolutely necessary.</label></span><br>
+<span class="selectans"><input type="radio" name="q12" value="0" id="q12-d" class="d"><label for="q12-d">I don’t care if I ever communicate with my instructor.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 13</legend>
+<p>Let’s say you’re struggling with something in an online class, which of the following would you be most likely to do?</p>
+<span class="selectans"><input type="radio" name="q13" value="3" id="q13-a" class="a"><label for="q13-a">Email my instructor right away so he or she can answer my question as soon as possible.</label></span><br>
+<span class="selectans"><input type="radio" name="q13" value="2" id="q13-b" class="b"><label for="q13-b">Call my instructor right away to try to get my question answered.</label></span><br>
+<span class="selectans"><input type="radio" name="q13" value="1" id="q13-c" class="c"><label for="q13-c">Wait a few days before calling or emailing my instructor.</label></span><br>
+<span class="selectans"><input type="radio" name="q13" value="0" id="q13-d" class="d"><label for="q13-d">Nothing. I’m too intimidated to contact my instructor. I’ll try to work it out on my own.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 14</legend>
+<p>Let’s say you have a disagreement about part of the class content with another student in the discussion forum of an online class. How would you handle this disagreement?</p>
+<span class="selectans"><input type="radio" name="q14" value="3" id="q14-a" class="a"><label for="q14-a">Learn some new ideas and come to an agreement. After all, you are in a class.</label></span><br>
+<span class="selectans"><input type="radio" name="q14" value="2" id="q14-b" class="b"><label for="q14-b">Forget about it and move on to other things. After all, you want to behave professionally.</label></span><br>
+<span class="selectans"><input type="radio" name="q14" value="1" id="q14-c" class="c"><label for="q14-c">Stop posting on the discussion board.</label></span><br>
+<span class="selectans"><input type="radio" name="q14" value="0" id="q14-d" class="d"><label for="q14-d">Turn it in to a fight. After all, you are right.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 15</legend>
+<p>When it comes to making plans, how do you usually handle things?</p>
+<span class="selectans"><input type="radio" name="q15" value="3" id="q15-a" class="a"><label for="q15-a">I plan get started as early as possible making detailed plans to get things done.</label></span><br>
+<span class="selectans"><input type="radio" name="q15" value="2" id="q15-b" class="b"><label for="q15-b">I’ll make a good plan and try stick to it.</label></span><br>
+<span class="selectans"><input type="radio" name="q15" value="1" id="q15-c" class="c"><label for="q15-c">I’ll plan some things, but it will change a lot when I try to complete them.</label></span><br>
+<span class="selectans"><input type="radio" name="q15" value="0" id="q15-d" class="d"><label for="q15-d">I totally wing it. I don’t make any plans.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 16</legend>
+<p>How would you describe your work ethic?</p>
+<span class="selectans"><input type="radio" name="q16" value="3" id="q16-a" class="a"><label for="q16-a">I’m a motivated, self-starter. I work hard and get the job done early.</label></span><br>
+<span class="selectans"><input type="radio" name="q16" value="2" id="q16-b" class="b"><label for="q16-b">I’ll do the work and get it done on time. </label></span><br>
+<span class="selectans"><input type="radio" name="q16" value="1" id="q16-c" class="c"><label for="q16-c">I’ll get things done eventually. It might just take some encouragement from the teacher or manager.</label></span><br>
+<span class="selectans"><input type="radio" name="q16" value="0" id="q16-d" class="d"><label for="q16-d">It takes a lot for me to get motivated. I don’t really like doing work.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 17</legend>
+<p>How would you describe your workspace?</p>
+<span class="selectans"><input type="radio" name="q17" value="3" id="q17-a" class="a"><label for="q17-a">I have a quiet, well-organized, dedicated place to do my work.</label></span><br>
+<span class="selectans"><input type="radio" name="q17" value="2" id="q17-b" class="b"><label for="q17-b">I have a few different places I can work. They’re usually quiet and organized.</label></span><br>
+<span class="selectans"><input type="radio" name="q17" value="1" id="q17-c" class="c"><label for="q17-c">I will just try to work anywhere I can. Even if it’s noisy.</label></span><br>
+<span class="selectans"><input type="radio" name="q17" value="0" id="q17-d" class="d"><label for="q17-d">I don’t have a space where I can do work.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 18</legend>
+<p>How much time, each week, do you expect to spend doing work for an online class?</p>
+<span class="selectans"><input type="radio" name="q18" value="3" id="q18-a" class="a"><label for="q18-a">6 – 10 hours</label></span><br>
+<span class="selectans"><input type="radio" name="q18" value="2" id="q18-b" class="b"><label for="q18-b">3 – 5 hours</label></span><br>
+<span class="selectans"><input type="radio" name="q18" value="1" id="q18-c" class="c"><label for="q18-c">1 – 3 hours</label></span><br>
+<span class="selectans"><input type="radio" name="q18" value="0" id="q18-d" class="d"><label for="q18-d">Less than an hour</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 19</legend>
+<p>When you receive a new assignment, how quickly do you begin to work on it?</p>
+<span class="selectans"><input type="radio" name="q19" value="3" id="q19-a" class="a"><label for="q19-a">I start to work on it right away. That way, I’ll have plenty of time to make sure it is as good as possible. I might even finish early.</label></span><br>
+<span class="selectans"><input type="radio" name="q19" value="2" id="q19-b" class="b"><label for="q19-b">I’ll gauge the amount of time I think it would take me to do the assignment and start when I think I need to in order to get it done on time.</label></span><br>
+<span class="selectans"><input type="radio" name="q19" value="1" id="q19-c" class="c"><label for="q19-c">It should only take a day or two, right? I can probably put it off until the weekend that it’s due.</label></span><br>
+<span class="selectans"><input type="radio" name="q19" value="0" id="q19-d" class="d"><label for="q19-d">I’ll wait until the last minute to get started. As long as something gets submitted, it’s fine.</label></span>
+</fieldset>
+
+<fieldset>
+<legend>Question 20</legend>
+<p>When you think about balancing school with your job and personal life, how do you plan on handling everything?</p>
+<span class="selectans"><input type="radio" name="q20" value="3" id="q20-a" class="a"><label for="q20-a">I know my limitations and I won’t schedule any more than I can handle for myself.</label></span><br>
+<span class="selectans"><input type="radio" name="q20" value="2" id="q20-b" class="b"><label for="q20-b">I might bite off a bit more than I can chew, but I know how to prioritize and can solve problems that may arise.</label></span><br>
+<span class="selectans"><input type="radio" name="q20" value="1" id="q20-c" class="c"><label for="q20-c">Sometimes I’ll drop the ball because I scheduled too much for myself. However, I can typically get back on track.</label></span><br>
+<span class="selectans"><input type="radio" name="q20" value="0" id="q20-d" class="d"><label for="q20-d">I am prone to over-extending myself and it leads to me having trouble getting anything done.</label></span>
+</fieldset>
+
+<button class="submit">Submit</button>
+      </form>
+</div>
+<div id="results">
+<h1 class="main">Online Readiness Assessment</h1>
+  <h1>Results for <span class="fullname"></span></h1>
+  <h2 class="sid">Student ID: <span class="studentid"></span></h2>
+<p class="results"></p>
+<ul class="extratips">
+<li>Discuss options for online course success with your advisor and instructors.</li>
+</ul>
+<button class="print" onclick="printResults();">Print Results</button>
+</div>
+</div>
+
+    <script src="assessment.js"></script>
+    <script>
+function printResults() 
+{
+  var divToPrint=document.getElementById('results');
+  var newWin=window.open('','Print-Window');
+  newWin.document.open();
+  newWin.document.write('<html><body onload="window.print()" style="font-family: sans-serif;">'+divToPrint.innerHTML+'</body></html>');
+  newWin.document.close();
+  setTimeout(function(){newWin.close();},10);
+}
+</script>
+  </body>
+</html>
