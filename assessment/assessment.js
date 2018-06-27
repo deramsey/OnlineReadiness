@@ -67,13 +67,13 @@ $.each($('input:checked'), function(){
 
 
 if (tot >= 0 && tot <= 29){
-  $('.results').html("<strong>Your final score is: " + (tot * 100)/60 + "</strong><br>Based on the results of this assessment, you have quite a bit to work on in order to prepare for success in online courses. You will find some tips for improvement below. It is also strongly suggested that you work through our online readiness course in order to further improve your skills. Please print your results and take them to your advisor.");
+  $('.results').html("<strong>Your final score is: " + ((tot * 100)/60).toFixed() + "</strong><br>Based on the results of this assessment, you have quite a bit to work on in order to prepare for success in online courses. You will find some tips for improvement below. It is also strongly suggested that you work through our online readiness course in order to further improve your skills. Please print your results and take them to your advisor.");
 }
 else if (tot > 29 && tot < 45){
-  $('.results').html("<strong>Your final score is: " + (tot * 100)/60 + "</strong><br>Based on the results of this assessment, you're almost ready to be successful in online courses. You just need a little more help to get you where you need to be. You will find some tips for improvement below. It is also suggested that you work through our online readiness course in order to further improve your skills. Please print your results and take them to your advisor.");
+  $('.results').html("<strong>Your final score is: " + ((tot * 100)/60).toFixed() + "</strong><br>Based on the results of this assessment, you're almost ready to be successful in online courses. You just need a little more help to get you where you need to be. You will find some tips for improvement below. It is also suggested that you work through our online readiness course in order to further improve your skills. Please print your results and take them to your advisor.");
 }
 else {
-  $('.results').html("<strong>Your final score is: " + (tot * 100)/60 + "</strong><br><p>Congratulations! Based on the results of this assessment, you have the skills necessary to be successful in online courses. Even though you're already doing very well, there is always room to get even better. You'll find some tips for improvement below. Please print your results and take them to your advisor.");
+  $('.results').html("<strong>Your final score is: " + ((tot * 100)/60).toFixed() + "</strong><br><p>Congratulations! Based on the results of this assessment, you have the skills necessary to be successful in online courses. Even though you're already doing very well, there is always room to get even better. You'll find some tips for improvement below. Please print your results and take them to your advisor.");
 }
 
 $(".fullname").html($('.fnamein').val() + " " + $('.lnamein').val());
