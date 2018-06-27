@@ -245,7 +245,7 @@
 function printResults() 
 {
   var divToPrint=document.getElementById('results');
-  var newWin=window.open('','Print-Window');
+  var newWin=window.open('', '_blank', 'width=600,height=600');
   newWin.document.open();
   newWin.document.write('<html><body onload="window.print()" style="font-family: sans-serif;">'+divToPrint.innerHTML+'</body></html>');
   newWin.document.close();
