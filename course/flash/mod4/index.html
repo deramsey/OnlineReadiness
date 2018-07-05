@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Nanum+Pen+Script" rel="stylesheet">
+
+<style type="text/css">
+
+.card {
+	width: 500px;
+	height: 300px;
+	margin: 20px auto;
+	text-align: center;
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 50px;
+
+	background: repeating-linear-gradient(
+  	180deg,
+  	white,
+  	white 30px,
+  	#9bc1ff 30px,
+  	#9bc1ff 32px
+  	);
+
+  	border: 1px solid #d6d6d6;
+}
+
+.instruc {
+	width: 500px;
+	margin: 20px auto;
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.term{
+	margin-top: 75px;
+	display: block;
+}
+
+.define {
+	margin-top: 5px;
+	display: block;
+}
+
+.controls{
+	width: 500px;
+	margin: 20px auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	font-family: sans-serif;
+	justify-items: center;
+}
+
+.prev, .next{
+	width: 150px;
+	height: 50px;
+	font-size: 18px;
+	background-color: white;
+	color: #606060;
+	border: 2px solid #606060;
+}
+
+.prev:hover, .next:hover{
+	color: white;
+	background-color: #606060;
+	text-decoration: underline;
+}
+
+.accessy{
+	width: 500px;
+	margin: 20px auto;
+	font-family: sans-serif;
+}
+
+</style>
+
+<script>
+var flashcards = {
+	c1: {term: "Credit Hour", definition: "A unit measuring educational credit based on the number of hours a class meets during a week"},
+	c2: {term: "Time management", definition: "The ability to use your time productively"},
+	c3: {term: "Schedule", definition: "A day-to-day plan or timetable"},
+	c4: {term: "School-Work-Life Balance", definition: "Prioritizing your time to make sure that all of your obligations (at school, in your personal life, and at work) are met"},
+	c5: {term: "Procrastinate", definition: "Put off doing something"},
+};
+
+$( document ).ready( function(){
+
+	$('.access-vocab').hide();
+
+	$.each(flashcards, function(i){
+		$('#flashcontainer').append("<div class='card'><span class='term'>" + flashcards[i]["term"] + "</span><br><span class='define'>" + flashcards[i]["definition"] + "</span></div>");
+		$('.access-vocab').append("<p>" + flashcards[i]["term"] + ": " + flashcards[i]["definition"] + "</p>");
+
+	});
+
+	$('.define').hide();
+
+	$('.card').on('click', function(){
+			$(this).children('.term').toggle();
+			$(this).children('.define').toggle();
+	});
+
+
+	var x = 0;
+	var y = $('.card').length;
+	$(".pos").text(x+1 + "/" + y);
+
+	$('.card').not($('card').eq(x)).hide();
+	$('.card').eq(x).show();
+	console.log(y);
+
+	$('.next').on('click', function(){
+		if (x < y-1){
+		x++;
+		$('.card').not($('card').eq(x)).hide();
+		$('.card').eq(x).show();
+		$(".pos").text(x+1 + "/" + y);
+	}
+		else {
+			return false;
+		};
+	});
+
+	$('.prev').on('click', function(){
+		if (x > 0 && x < y){
+		x--;
+		$('.card').not($('card').eq(x)).hide();
+		$('.card').eq(x).show();
+		$(".pos").text(x+1 + "/" + y);
+	}
+		else {
+			return false;
+		};
+	});
+
+	$('.accessible').on("click", function(){
+		$('.access-vocab').toggle();
+	});
+
+});
+
+</script>
+
+</head>
+
+<body>
+<p class="instruc">Click the card to show the other side. Navigate through the cards using the "Previous" and "Next" buttons below.</p>
+<div id="flashcontainer"></div>
+<div class="controls"><button class="prev">◄ Previous</button><span class="pos"></span><button class="next">Next ► </button></div><br>
+<div class="accessy"><a role="button" href="#" class="accessible" aria-haspopup="true">Click to show/hide accessible vocabulary list</a><br>
+<div class="access-vocab"></div>
+
+
+</div>
+
+
+
+</body>
+</html>
