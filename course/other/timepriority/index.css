@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+progress[value]{
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 30px;
+ }
+
+.priorityitem{
+  display: block;
+  margin-bottom: 2px;
+}
+
+progress[value]::-webkit-progress-bar {
+  background-color: white;
+  border: 2px solid lightgrey;
+}
+
+progress[value]::-webkit-progress-value {
+        background-size: 100% 100%;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 50% auto;
+}
+
+.items{
+  text-align: right;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.monty {
+  display: block;
+  margin: 0 auto;
+}
