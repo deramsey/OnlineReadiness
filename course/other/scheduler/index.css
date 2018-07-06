@@ -12,20 +12,21 @@ thead{
 }
 
 .input tr {
-    width: 960px;
+    width: 100%;
     display: grid;
-  grid-template-columns: repeat(10, 94px);
+  grid-template-columns: repeat(10, 1fr);
   align-content: center;
   padding: 10px;
 }
 .results{
   margin-top: 30px;
+  width: 100%;
 }
 
 .results tr {
-    width: 960px;
+    width: 100%;
     display: grid;
-  grid-template-columns: repeat(7, 137px);
+  grid-template-columns: repeat(8, 1fr);
   align-content: center;
 }
 
@@ -81,6 +82,6 @@ button{
 .buttoncontainer{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  width: 960px;
+  width: 100%;
 
 }
