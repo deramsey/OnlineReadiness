@@ -51,7 +51,7 @@ inner();
 
 $(".test").on("click", function(){
 $('.innersched').each(function(i, el){
-  $(".daycheck:checked").each(function(i, el){
+  $(".daycheck:checked").each(function(j, hm){
 var thisday = $(this).val();
 var hourone = $(this).parents(".innersched").find($(".times1 option:selected")).val();
 var hourtwo = $(this).parents(".innersched").find($(".times2 option:selected")).val();
