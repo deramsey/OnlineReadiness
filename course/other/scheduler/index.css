@@ -1,0 +1,86 @@
+*{
+  box-sizing: border-box;
+}
+
+table{
+background-color: transparent;
+}
+
+thead{
+  background-color: #0067a5;
+  color: white;
+}
+
+.input tr {
+    width: 960px;
+    display: grid;
+  grid-template-columns: repeat(10, 94px);
+  align-content: center;
+  padding: 10px;
+}
+.results{
+  margin-top: 30px;
+}
+
+.results tr {
+    width: 960px;
+    display: grid;
+  grid-template-columns: repeat(7, 137px);
+  align-content: center;
+}
+
+.results td{
+  height: 30px;
+}
+
+.input tr:nth-of-type(2n+3){
+  background-color: #eee;
+}
+
+.results tr:nth-of-type(2n+2){
+  background-color: #eee;
+}
+
+th, td{
+  text-align: center;
+}
+
+input[type=text]{
+  width: 100%;
+  height: 30px;
+  padding: 3px;
+}
+
+input[type=checkbox]{
+  width: 30px;
+  height: 30px;
+}
+
+select {
+  height: 30px;
+}
+
+.example{
+  background-color: #cacaca;
+}
+
+.choice {
+  background-color: #bbbbff;
+}
+
+.container{
+  margin: 0 auto;
+}
+
+button{
+  width: 200px;
+    justify-self: center;
+    align-self: center;
+}
+
+.buttoncontainer{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+
+}
