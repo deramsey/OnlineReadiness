@@ -29,7 +29,7 @@ thead{
   align-content: center;
 }
 
-.results td{
+.results td, .results thead{
   height: 30px;
 }
 
@@ -80,7 +80,7 @@ button{
 
 .buttoncontainer{
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   width: 960px;
 
 }
