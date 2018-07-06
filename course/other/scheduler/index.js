@@ -59,10 +59,11 @@ var classname = $(this).parents(".innersched").find($("input[type=text]")).val()
 
 $("." + thisday + hourone).text(classname);
 
-var i = hourone;
-while(i <= hourtwo){
-  $('.' + thisday + i).addClass("choice");
-  i++;
+var baby = hourone;
+
+while(baby <= hourtwo){
+  $('.' + thisday + baby).addClass("choice");
+  baby++;
 }
 
 });

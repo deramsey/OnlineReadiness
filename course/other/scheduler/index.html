@@ -24,11 +24,10 @@
 <div class="buttoncontainer">
 <button class="addrow">Add Row</button>
 <button class="test">Submit</button>
-<button class="print" onClick="printResults();">Print</button>
 <button class="reset">Reset All</button>
 </div>
 <section class="calendar">
-<table class="results">
+<table class="results" id="results">
   <thead><tr><th scope="col">Times</th><th scope="col">Sunday</th><th scope="col">Monday</th><th scope="col">Tuesday</th><th scope="col">Wednesday</th><th scope="col">Thursday</th><th scope="col">Friday</th><th scope="col">Saturday</th></tr></thead>
 <tr><th scope="row">8:00 AM</th> <td class="sun1"></td> <td class="mon1"></td> <td class="tue1"></td> <td class="wed1"></td> <td class="thu1"></td> <td class="fri1"></td> <td class="sat1"></td></tr>
 <tr> <th scope="row">8:30 AM</th><td class="sun2"></td> <td class="mon2"></td> <td class="tue2"></td> <td class="wed2"></td> <td class="thu2"></td> <td class="fri2"></td> <td class="sat2"></td></tr>
@@ -65,17 +64,6 @@
 
 </section>
 </div>
-<script>
-function printResults() 
-{
-  var divToPrint=document.getElementById('results');
-  var newWin=window.open('', '_blank', 'width=600,height=600');
-  newWin.document.open();
-  newWin.document.write('<html><body onload="window.print()" style="font-family: sans-serif;">'+divToPrint.innerHTML+'</body></html>');
-  newWin.document.close();
-  setTimeout(function(){newWin.close();},10);
-}
-</script>
     <script src="index.js"></script>
   </body>
 </html>
