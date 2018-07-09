@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "5b2d5065305493c049eda6f1",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "pageBody": "",
+    "_classes": "",
+    "body": "<p>Are you ready to take online courses? Colleges and universities across the country are adding even more online classes to the curriculum. You will probably encounter an online course as you progress in your degree program.</p><p>This material will help you gain the skills that are necessary to be successful online. This module introduces you to some key terms, describes what an only course really is, dispels some myths you may have heard about online courses, and lays out the benefits and drawbacks of taking an online course. You&#39;ll also be introduced to a new friend in this module who will help you along your way.</p><p><strong>Objectives</strong></p><p>By the end of this module, you will be able to:</p><ul><li>Define vocabulary related to online courses.</li><li>Describe online courses.</li><li>Identify myths about online courses.</li><li>Explain the benefits and drawbacks of online courses.</li></ul>",
+    "displayTitle": "1. Introduction - Start Here",
+    "title": "1. Introduction - Start Here",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "block"
+    }
+  },
+  {
+    "_id": "5b34f159305493c049eda6f6",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "pageBody": "",
+    "_classes": "",
+    "body": "<p>Before you go to an online class, you&#39;re going to need to know the basics of using a computer and the internet. Having this knowledge will help to make sure your online experience runs smoothly and allow for you to get technical assistance just in case you need it. In this section, you&#39;ll learn more about what kind of computer you need to be able to take online classes, how to describe the different parts of a computer, how to manage technical difficulties, how to use productivity software, and how to use the&nbsp;internet to browse and conduct searches.</p><p><strong>Objectives</strong></p><p>By the end of this module, you will be able to:</p><ul><li>Explain how to choose a computer to take online classes.</li><li>Describe the basic parts of a computer.</li><li>Explain what to do in case you have technical problems.</li><li>Use productivity software at a basic level.</li><li>Use the internet to browse and conduct searches.</li></ul>",
+    "displayTitle": "2. Computer & Internet Basics",
+    "title": "2. Computer & Internet Basics",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "block"
+    }
+  },
+  {
+    "_id": "5b34f15b305493c049eda6f9",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "pageBody": "",
+    "_classes": "",
+    "body": "<p>Good communication is the key to being successful in online courses. In an online course, you will be expected to communicate with both your instructor and your classmates in various formats. There are two, different types of communication that we will discuss: asynchronous communication and synchronous communication. Most of the communication that you will do in an online course will be asynchronous communication. We&#39;ll discuss what that means later on in the module.</p><p>In this module, you&#39;ll learn the basic of being a good communicator online. This includes reading skills, writing skills, and something we call &quot;netiquette.&quot;</p><p><strong>Objectives</strong></p><p>By the end of this module, you will be able to:</p><ul><li>Explain the different types of online communication</li><li>Read actively</li><li>Write effective emails</li><li>Explain the rules of &quot;netiquette&quot;</li></ul>",
+    "displayTitle": "3. Communication",
+    "title": "3. Communication",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "_id": "5b34f15d305493c049eda6fc",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "pageBody": "",
+    "_classes": "",
+    "body": "<p>We&#39;ve discussed a lot about how you need to have self-discipline to be successful in online courses, but what does that really mean? A large part of having that self-discipline revolves around time management. Knowing how to manage your time properly will allow you to work out a schedule that will put your personal life, school, and work in to balance. This lets you complete the assignments you need to get done and get good grades in school without anything else having to suffer as a consequence.</p><p><strong>Objectives</strong></p><p>By the end of this module, you will be able to:</p><ul><li>Explain how much time you should devote to studying</li><li>Describe your own time management, personality profile</li><li>Create a schedule</li><li>Prioritize the time you spend on different things during the day</li><li>Stop procrastinating and get back to work</li></ul>",
+    "displayTitle": "4. Time Management",
+    "title": "4. Time Management",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "_id": "5b34f164305493c049eda6ff",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "pageBody": "",
+    "_classes": "",
+    "body": "<p>As we have already discussed, Blackboard is Cleveland Community College&#39;s learning management system. It is your &quot;online classroom&quot; and will contain all of the material that you will need to read or watch and the activities that you will need to do. In this module, you&#39;ll learn more about using Blackboard. We&#39;ll look at how to log in, how to find and navigate your courses, and how to submit assignments in an online class.</p><p><strong>Objectives</strong></p><p>By the end of this module, you will be able to:</p><ul><li>Explain how to log in to Blackboard</li><li>Describe how to find courses in Blackboard</li><li>Describe how to submit assignments in Blackboard</li></ul>",
+    "displayTitle": "5. Using Blackboard",
+    "title": "5. Using Blackboard",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "_id": "5b352938305493c049eda70f",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "pageBody": "",
+    "_classes": "",
+    "body": "<p>You&#39;re almost finished. In this module, you&#39;ll take a test to see how much you&#39;ve learned so far and you&#39;ll learn about your next steps to make sure that you succeed in online courses. Just because we&#39;re almost done with this material, it doesn&#39;t mean you&#39;re done doing what you need to do for online classes.</p><p>If you achieve a score of 80 or higher on the final test, you&#39;ll be rewarded with a certificate.&nbsp;</p><p><strong>Objectives</strong></p><p>By the end of this module, you will be able to:</p><ul><li>Explain the different skills and abilities needed to succeed in online courses.</li><li>Describe your next steps to ensure online success.</li></ul>",
+    "displayTitle": "6. Wrapping Up",
+    "title": "6. Wrapping Up",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "block"
+    }
+  }
+]

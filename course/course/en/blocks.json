@@ -1,0 +1,2854 @@
+[
+  {
+    "_id": "5b2d5066305493c049eda6f3",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 1,
+    "_classes": "",
+    "body": "<p>Monty is going to be your guide who will help you on your way to becoming online ready. As you progress, you will earn &quot;Monty Medals&quot; for being able to answer certain questions and completing certain tasks. Make sure to find all of the &quot;Monty Medals&quot; in order to successfully complete this course. Now, for a message from Monty.</p>",
+    "displayTitle": "Meet Monty",
+    "title": "Meet Monty",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b34f15b305493c049eda6fb",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 2,
+    "_classes": "",
+    "body": "<p>Before continuing with this module, take some time to familiarize yourself with important vocabulary for the module using these &quot;flashcards.&quot; Having a better understanding of these terms now will help you as you work through the rest of the material in this module.</p>",
+    "displayTitle": "Important Vocabulary",
+    "title": "Important Vocabulary",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b34f15e305493c049eda6fe",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 3,
+    "_classes": "",
+    "body": "<p>Before continuing with this module, take some time to familiarize yourself with important vocabulary for the module using these &quot;flashcards.&quot; Having a better understanding of these terms now will help you as you work through the rest of the material in this module.</p>",
+    "displayTitle": "Important Vocabulary",
+    "title": "Important Vocabulary",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b34f164305493c049eda701",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 4,
+    "_classes": "",
+    "body": "<p>Before continuing with this module, take some time to familiarize yourself with important vocabulary for the module using these &quot;flashcards.&quot; Having a better understanding of these terms now will help you as you work through the rest of the material in this module.</p><p>You&#39;ll be asked questions inside the video. Make sure to pay attention so you can answer the questions.</p>",
+    "displayTitle": "Important Vocabulary",
+    "title": "Important Vocabulary",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b352939305493c049eda711",
+    "_type": "block",
+    "_parentId": "5b3fbf78305493c049eda78a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 5,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "What Are My Next Steps?",
+    "title": "What Are My Next Steps?",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a523f305493c049eda71b",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 6,
+    "_classes": "",
+    "body": "<p>Before continuing with this module, take some time to familiarize yourself with important vocabulary for the module using these &quot;flashcards.&quot; Having a better understanding of these terms now will help you as you work through the rest of the material in this module.</p>",
+    "displayTitle": "Important Vocabulary",
+    "title": "Important Vocabulary",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb63b305493c049eda774",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 7,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "The Final Test",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b34f159305493c049eda6f8",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 8,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "What Kind of Computer do I Need?",
+    "title": "What Kind of Computer do I Need?",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b350dac305493c049eda70d",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 9,
+    "_classes": "",
+    "body": "<p>Before continuing with this module, take some time to familiarize yourself with important vocabulary for the module using these &quot;flashcards.&quot; Having a better understanding of these terms now will help you as you work through the rest of the material in this module.</p>",
+    "displayTitle": "Important Vocabulary",
+    "title": "Important Vocabulary",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3b97b6305493c049eda732",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 10,
+    "_classes": "",
+    "body": "<p>Before you&#39;re able to do anything in Blackboard, you&#39;re going to have to log in. As mentioned previously, Blackboard uses the same username and password that you use to log in to your email. The video below shows you how to log in to Blackboard.</p>",
+    "displayTitle": "Logging in to Blackboard",
+    "title": "Logging in to Blackboard",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3bb3c3305493c049eda745",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 11,
+    "_classes": "",
+    "body": "<p>Have you ever thought about how much time you should spend outside of class studying and working on homework? In the following video, Monty explains to you a good rule-of-thumb to help answer this question.</p>",
+    "displayTitle": "How Much Should I Study?",
+    "title": "How Much Should I Study?",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e47c9305493c049eda75a",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 12,
+    "_classes": "",
+    "body": "<p>First let&#39;s talk about the two types of communication that can be used in an online class:</p><ul><li><strong>Asynchronous communication</strong>&nbsp;is when you, your classmates, and your instructor participate in online discussions at different times, rather than in real time. So if you send your instructor a question via email, participate in an online discussion forum, or post to a blog for your class, you are communicating asynchronously.</li><li><strong>Synchronous communication</strong>&nbsp;happens in real time, like having a class discussion in a traditional setting or talking to a teacher after class. But you can communicate synchronously in an online environment too, through the use of tools like online chat; Internet voice of video calling systems like Skype or Google Hang-outs; or through the use of web-based video conferencing software like WebEx, Zoom, or Collaborate. At Cleveland Community College, instructors can use Zoom for web-based video conferencing.</li></ul>",
+    "displayTitle": "Types of Online Communication",
+    "title": "Types of Online Communication",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb65d305493c049eda775",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 13,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b34fd7c305493c049eda706",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 14,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "What is an Online Course?",
+    "title": "What is an Online Course?",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3b97c9305493c049eda734",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 15,
+    "_classes": "",
+    "body": "<p>Once you&#39;re in Blackboard, you&#39;ll want to know how to get around. This video walks you through the basics of navigating Blackboard.</p><p>You&#39;ll be asked questions inside the video. Make sure to pay attention so you can answer the questions.</p>",
+    "displayTitle": "Navigating Blackboard",
+    "title": "Navigating Blackboard",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e62da305493c049eda765",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 16,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Test Yourself: How Much Time?",
+    "title": "Test Yourself: How Much Time?",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb660305493c049eda776",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 17,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b436974305493c049eda79c",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 18,
+    "_classes": "",
+    "body": "<p>Listen to the text above:</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b436b60305493c049eda7a2",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 19,
+    "_classes": "",
+    "body": "<p>Listen to the text above:</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a6042305493c049eda726",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 20,
+    "_classes": "",
+    "body": "<p>The most important thing you&#39;ll need for your online classes is a fast internet connection. It&#39;s recommended that you have a high-speed broadband connection. Having a high-speed connection will make your online course experience much more smooth. However, if you do not have high-speed internet, you can still use the computers in the CCC library, as previously mentioned.</p><p>Below, you&#39;ll find a few more things you will need to help your online course experience. Read each section. You can advance to the next section by clicking the arrow on the right side of the pane. You will not be able to continue unless you read through all of the sections below.</p>",
+    "displayTitle": "What Else Will I Need?",
+    "title": "What Else Will I Need?",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3b97dc305493c049eda736",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 21,
+    "_classes": "",
+    "body": "<p>The Blackboard assignments tool presents a variety of learning activities. You view and submit assignments from one location. Your instructor designs assignments that require you to:</p><ul><li>Provide text on the Upload Assignment page.</li><li>Attach files from your computer or from the Content Collection.</li><li>Both provide text and attach files.</li></ul><p>Assignments list the name, description, and attachments for class work. Your instructor provides you with all the information you need to complete the assignment. You can include comments for your instructor before you submit your work.</p><p>After you submit your assignment, navigate to your grade sheet&nbsp;(<strong>Course Tools &gt; My Grades</strong>). You should see an icon that looks like an exclamation point inside a yellow circle. This means that your assignment was successfully submitted and is waiting to be graded by your instructor. You can check the status of your submissions immediately after you submit by checking your grade sheet.</p><p>Usually, if an attempted submission is not successful, a red exclamation mark icon will appear on the grade sheet. This indicates an unsuccessful attempt. If you see this icon, you should contact your instructor immediately so that the lock can be cleared allowing you to &quot;re-submit&quot; the assignment again (before the deadline). If the grade area is empty after the deadline, Blackboard is reporting that no assignment has been submitted. To check for grading, access the Grade Center and if provided, click the grade which will take you back to the assignment itself. This is important because your instructor&nbsp;may make &quot;comments&quot; about the assignment, and/or in some cases attach a file back to you. You can also return to the assignment itself within the course to see if your submission has been graded or if feedback has been given by your instructor.</p><p>The following, three videos come directly from Blackboard support. These videos will walk you through the process you just read about.</p><p>In the first video, you will receive an overview of assignments in Blackboard.</p>",
+    "displayTitle": "Turning in Assignments with Blackboard",
+    "title": "Turning in Assignments with Blackboard",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3bb31b305493c049eda73d",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 22,
+    "_classes": "",
+    "body": "<p>In order for you to be able to fully understand what you need to do to schedule and maintain your time, you need to figure out which type of time management personality you have. There are four, main types of time management personalities: the early bird, the balancing act, the pressure cooker, and the improviser.</p><p>Answer the questions below in order to determine your time management personality type. This isn&#39;t graded and no one else will see your answers, so answer this honestly. Answer what you would actually do instead of what you think should be the answer.</p>",
+    "displayTitle": "Time Management Personalities",
+    "title": "Time Management Personalities",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e6629305493c049eda76a",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 23,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Test Yourself: Communication",
+    "title": "Test Yourself: Communication",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb662305493c049eda777",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 24,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b436783305493c049eda79a",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 25,
+    "_classes": "",
+    "body": "<p>Listen to the text above:</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a4872305493c049eda717",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 26,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Test Yourself: The LMS",
+    "title": "Test Yourself: The LMS",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3b998b305493c049eda738",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 27,
+    "_classes": "",
+    "body": "<p>In this next video, Blackboard support will walk you through how to submit an assignment in Blackboard.</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3bb32e305493c049eda73f",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 28,
+    "_classes": "",
+    "body": "<p>Use the item below to help you make a weekly schedule. You can put the activity or class in the first box, then put days and times in the necessary location. Once you&#39;ve got your entire schedule click &quot;Submit&quot; to see your schedule items populate the weekly schedule below.</p><p>By doing this, you can see how your week is typically planned out, where you may have too many things scheduled, and where you have downtime that you might be able to work other things in to (like studying).</p>",
+    "displayTitle": "Creating a Schedule",
+    "title": "Creating a Schedule",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e33f4305493c049eda752",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 29,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Test Yourself: Other Needs",
+    "title": "Test Yourself: Other Needs",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e47b8305493c049eda759",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 30,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Active Reading Techniques",
+    "title": "Active Reading Techniques",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb663305493c049eda778",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 31,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b34fd8f305493c049eda708",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 32,
+    "_classes": "",
+    "body": "<p>There are a lot of misconceptions and misunderstandings when it comes to online courses. The video below will debunk some of those misconceptions and teach you more about the truth about online courses. As you watch the video, questions will appear. You will have to answer the question before you can continue.</p>",
+    "displayTitle": "Online Courses: Separating Myth from Fact",
+    "title": "Online Courses: Separating Myth from Fact",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a521e305493c049eda719",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 33,
+    "_classes": "",
+    "body": "<p>It is helpful when you&#39;re looking to buy a new computer or you&#39;re having problems with the computer you have now, to know some of the basic terminology around the different parts of the computer. Watch the following video from&nbsp;GCFLearnFree to learn about the parts of the computer.&nbsp;</p>",
+    "displayTitle": "The Parts of a Computer",
+    "title": "The Parts of a Computer",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3b9a7f305493c049eda73b",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 34,
+    "_classes": "",
+    "body": "<p>This final video from Blackboard support will show you how to check the grades on assignments you have previously submitted.</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3bb363305493c049eda741",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 35,
+    "_classes": "",
+    "body": "<p>Prioritizing your time is absolutely crucial in order for you to be able to be successful in class. After all, you only have twenty-four hours in a day. Sometimes, prioritizing your time might mean that you have to give something up that you consider to be less important to get something that you want.</p><p>Fill in the boxes below with the number of hours you&nbsp;spend each day, on average, doing the listed activities. This is to help you see where you devote the majority of your time. By seeing how you spend your time, you can determine if you&#39;re spending it wisely; allocating the proper number of hours for different things based on how important they are to you. If you&#39;re not spending time on things that you consider to be important, try to think about how you can adjust your schedule to prioritize your time better. Think about these questions while you fill in the boxes:</p><ul><li>What is the most important thing I do every day?</li><li>What is my most important, life goal?</li><li>Am I giving enough time to activities that will help me meet my goals?</li><li>How can I prioritize my time to meet my goals?</li></ul>",
+    "displayTitle": "Prioritizing Your Time",
+    "title": "Prioritizing Your Time",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb669305493c049eda779",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 36,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b436aa1305493c049eda7a0",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 37,
+    "_classes": "",
+    "body": "<p>Listen to the text above:</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b34fdc0305493c049eda70a",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 38,
+    "_classes": "",
+    "body": "<p>Below, you&#39;ll find some pros and cons of online classes, but you&#39;re going to have to sort them yourself. Look at each of the different qualities of an online course and determine whether the quality is a &quot;pro&quot; or a &quot;con.&quot; If the quality is good and beneficial to you as a student, click and drag that box into the &quot;Pro&quot; box. If the quality is bad and not beneficial to you as a student, click and drag that box into the &quot;Con&quot; box. Incorrect answers will go back to their original positions. The game will let you know when you&#39;ve sorted all of the different qualities properly.</p>",
+    "displayTitle": "Online Courses: Pros & Cons",
+    "title": "Online Courses: Pros & Cons",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a5273305493c049eda71d",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 39,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Technical Difficulties",
+    "title": "Technical Difficulties",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3bb37b305493c049eda743",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 40,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Stop Procrastinating",
+    "title": "Stop Procrastinating",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e43c1305493c049eda756",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 41,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Test Yourself: Submitting Assignments",
+    "title": "Test Yourself: Submitting Assignments",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e4a35305493c049eda75e",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 42,
+    "_classes": "",
+    "body": "<p>Email evolved from the more formal paper mail sent through the postal service. Communication that was once handwritten, then composed on a typewriter, is now created on a computer (or mobile device) screen. Email conventions are different from written communication practices. Some email mailboxes receive hundreds (or more) emails per day, so understanding the basics of effective email communication will help your message be read and acted upon.</p><p>Here are several guidelines:</p><ol><li><strong>Email should be short</strong>&nbsp;&ndash; a screen or less in length. Readers don&#39;t have time to read long messages and tend to skim email. Long messages may not be read completely or even at all. Think about that person receiving hundreds of emails per day. How will you get your message to that person?</li><li><strong>Cover one topic.</strong>&nbsp;Multiple topics will be lost in longer emails.</li><li><strong>Use multiple emails for different topics</strong>. People with high email volume use folders to store emails, so having multiple subjects in one message makes it more difficult to file it.</li><li>Use a&nbsp;<strong>short descriptive Subject line</strong>&nbsp;for the email.</li><li>Within the message,&nbsp;<strong>use headings</strong>&nbsp;to increase reading comprehension. For example, if the email message is a Status Report of your three projects, use a heading to help the reader connect the content with the subject.</li><li><strong>Business Emails are for formal, written communication</strong>&nbsp;and the expectation is for correct grammar, spelling and punctuation.</li><li><strong>Emails last forever</strong>. Avoid putting something in an email that shouldn&#39;t be viewed by everyone. &quot;My supervisor is an idiot,&quot; is not appropriate for an email.</li><li><strong>Use the Reply All button sparingly</strong>. If there is a long list of people on the email, and a question is asked, &quot;Will you be at the meeting,&quot; use the Reply button to reply to the sender, not to everyone on the list. &quot;No, I have to go to court for that DUI I told you about,&quot; is not something everyone needs to know.</li><li>Avoid flaming in an email.&nbsp;<strong>Flaming</strong>&nbsp;is some form of an emotional response to an issue or person that results in insulting communication between users, sometimes using profanity. Recall that emails last forever and can be shared, so avoid any flaming over email.</li><li><strong>Avoid all caps.</strong>&nbsp;USING ALL CAPS IS EQUIVALENT TO SHOUTING.</li><li><strong>Add a Greeting and a Signature</strong>: Begin your message by addressing the reader by name if possible, this lets the recipient know it isn&rsquo;t a mass email. Finish your messages with a closing signature; this is the courteous way of letting your reader know that your message is done.</li></ol><p>The following video from GCFLearnFree will give you even more tips for writing effective, professional email.</p>",
+    "displayTitle": "Tips for Writing an Effective Email",
+    "title": "Tips for Writing an Effective Email",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb66a305493c049eda77a",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 43,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e4a4c305493c049eda760",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 44,
+    "_classes": "",
+    "body": "<p>&nbsp;Netiquette is the correct or acceptable way of communicating on the internet. In the following video, Monty explains netiquette in a little more depth and he gives you some best practices for maintaining proper netiquette.</p>",
+    "displayTitle": "Netiquette",
+    "title": "Netiquette",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb66c305493c049eda77b",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 45,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b436559305493c049eda796",
+    "_type": "block",
+    "_parentId": "5b34f164305493c049eda700",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 46,
+    "_classes": "",
+    "body": "<p>You&#39;ve successfully completed this module. Please click &quot;Back to Main Menu&quot; at the top of the page to return to the main menu and access the next module.</p>",
+    "displayTitle": "Congratulations!",
+    "title": "Congratulations!",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b4365a3305493c049eda798",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 47,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Test Yourself: Pros and Cons",
+    "title": "Test Yourself: Pros and Cons",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b436a08305493c049eda79e",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 48,
+    "_classes": "",
+    "body": "<p>Listen to the text above:</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b436c05305493c049eda7a4",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 49,
+    "_classes": "",
+    "body": "<p>Listen to the text above:</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a528c305493c049eda71f",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 50,
+    "_classes": "",
+    "body": "<p>For certain courses, you may be asked to create an assignment using a word processor, spreadsheet program, or another piece of productivity software. The productivity software that you will need to use most often will be Microsoft Word and Microsoft Excel from the Microsoft Office suite. As a Cleveland Community College student, you have access to the full, Microsoft Office suite of software for free. Ask your advisor or visit clevelandcc.edu for more information about how to obtain this software.</p><p>The following two videos from GCFLearnFree will show you how to get started with Microsoft Word and Microsoft Excel.</p><p>The first video walks you through how to get started with Microsoft Word.</p>",
+    "displayTitle": "Productivity Software",
+    "title": "Productivity Software",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3e6713305493c049eda76c",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 51,
+    "_classes": "",
+    "body": "<p>Below, you&#39;ll find several different behaviors people could perform online.&nbsp;Look at each of the different behaviors and determine whether they are or are not appropriate based on what you know about netiquette. If the quality is good netiquette, click and drag that box into the &quot;Good Netiquette&quot; box. If the quality is bad netiquette, click and drag that box into the &quot;Bad Netiquette&quot; box. Incorrect answers will go back to their original positions. The game will let you know when you&#39;ve sorted all of the different qualities properly.</p>",
+    "displayTitle": "Netiquette Sorter",
+    "title": "Netiquette Sorter",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb66d305493c049eda77c",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 52,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b4363c4305493c049eda78e",
+    "_type": "block",
+    "_parentId": "5b2d5065305493c049eda6f2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 53,
+    "_classes": "",
+    "body": "<p>You&#39;ve successfully completed this module. Please click &quot;Back to Main Menu&quot; at the top of the page&nbsp;to return to the main menu and access the next module.</p>",
+    "displayTitle": "Congratulations!",
+    "title": "Congratulations!",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b43651b305493c049eda794",
+    "_type": "block",
+    "_parentId": "5b34f15d305493c049eda6fd",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 54,
+    "_classes": "",
+    "body": "<p>You&#39;ve successfully completed this module. Please click &quot;Back to Main Menu&quot; at the top of the page to return to the main menu and access the next module.</p>",
+    "displayTitle": "Congratulations!",
+    "title": "Congratulations!",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3bcff1305493c049eda748",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 55,
+    "_classes": "",
+    "body": "<p>The next video shows you the basics of getting started with Microsoft Excel.</p>",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb66f305493c049eda77d",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 56,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b4364e3305493c049eda792",
+    "_type": "block",
+    "_parentId": "5b34f15b305493c049eda6fa",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 57,
+    "_classes": "",
+    "body": "<p>You&#39;ve successfully completed this module. Please click &quot;Back to Main Menu&quot; at the top of the page to return to the main menu and access the next module.</p>",
+    "displayTitle": "Congratulations!",
+    "title": "Congratulations!",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3bd0c8305493c049eda74b",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 58,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Test Yourself: Productivity Software",
+    "title": "Test Yourself: Productivity Software",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3fb671305493c049eda77e",
+    "_type": "block",
+    "_parentId": "5b352938305493c049eda710",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 59,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Results",
+    "title": "Results",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a52bc305493c049eda721",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 60,
+    "_classes": "",
+    "body": "<p>Your browser is what you use to use the internet. In the following video, you&#39;ll see a walkthrough of the different parts of the browser and how to use the browser to navigate the internet.</p>",
+    "displayTitle": "Using the Browser",
+    "title": "Using the Browser",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b3a52da305493c049eda723",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 61,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Need Additional Help?",
+    "title": "Need Additional Help?",
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5b43649b305493c049eda790",
+    "_type": "block",
+    "_parentId": "5b34f159305493c049eda6f7",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_trackingId": 62,
+    "_classes": "",
+    "body": "<p>You&#39;ve successfully completed this module. Please click &quot;Back to Main Menu&quot; at the top of the page to return to the main menu and access the next module.</p>",
+    "displayTitle": "Congratulations!",
+    "title": "Congratulations!",
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  }
+]

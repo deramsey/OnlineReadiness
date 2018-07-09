@@ -1,0 +1,3268 @@
+[
+  {
+    "_id": "5b3677e3305493c049eda714",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b2d5066305493c049eda6f3",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://app.ilosvideos.com/embed/uBA2yz3bMcET",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3a470c305493c049eda715",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b34fd7c305493c049eda706",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>You already know that many colleges and universities are adding online courses to the curriculum. As you work through your program at Cleveland Community College, you will probably encounter the need to take an online course. But what will this really mean for you as a student?</p><p>In an online course, your instruction is delivered over the internet rather than in-person. You might even find that your &ldquo;online classroom&rdquo; is very similar to a traditional classroom. The &ldquo;online classroom&rdquo; is also called the &ldquo;learning management system&rdquo; or LMS. At Cleveland Community College, you&rsquo;ll use the Blackboard Learning Management System. You&rsquo;ll learn more about how to use Blackboard later in this material.</p><p>In the &ldquo;online classroom,&rdquo; your instructor will do the following:</p><ul><li>Post all course material.</li><li>Conduct online discussions and other activities.</li><li>Create assignments and receive your assignment submissions.</li></ul><p>Your instructor will also expect a few things from you. You should make sure to read the syllabus that the instructor will have posted in the &ldquo;online classroom.&rdquo; However, all instructors will expect you to do the following:</p><ul><li>Read or watch all course material.</li><li>Participate in discussions and other activities.</li><li>Use the LMS to submit your assignments.</li></ul><p>Again, we&rsquo;ll discuss how to use the Blackboard LMS in more depth later in this material. For now, just know that this is how you&rsquo;ll have to &ldquo;go to class&rdquo; in an online course.</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "eighty",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3a4751305493c049eda716",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b34fd7c305493c049eda706",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "twenty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"\"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530546234/OR/Asset_3.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530546234/OR/Asset_3.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3a48b2305493c049eda718",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3a4872305493c049eda717",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>What is the learning management system, or &quot;online classroom,&quot; that is used at Cleveland Community College?</p>",
+    "displayTitle": "",
+    "title": "Test Yourself: The LMS",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Blackboard",
+        "_shouldBeSelected": true,
+        "feedback": "That's right! At Cleveland Community College, we use the Blackboard Learning Management System as the \"online classroom.\""
+      },
+      {
+        "text": "Moodle",
+        "_shouldBeSelected": false,
+        "feedback": "Sorry, that is incorrect. Please re-read the last section of this material and try again."
+      },
+      {
+        "text": "Whiteboard",
+        "_shouldBeSelected": false,
+        "feedback": "Sorry, that is incorrect. Please re-read the last section of this material and try again."
+      },
+      {
+        "text": "Canvas",
+        "_shouldBeSelected": false,
+        "feedback": "Sorry, that is incorrect. Please re-read the last section of this material and try again."
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s right! At Cleveland Community College, we use the Blackboard Learning Management System as the &quot;online classroom.&quot;</p><div class=\"medal\"><p style=\"text-align: center;\"><strong>Congratulations! For answering this question correctly, you&#39;ve received a &quot;Monty Medal.&quot;</strong></p></div>",
+      "_incorrect": {
+        "final": "<p>Sorry, that is incorrect. Please re-read the last section of this material and try again.</p>",
+        "notFinal": "<p>Sorry, that is incorrect. Please re-read the last section of this material and try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3a5316305493c049eda724",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b3a52da305493c049eda723",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "twenty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "For your information",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530548997/OR/Asset_4.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530548997/OR/Asset_4.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3a533a305493c049eda725",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b3a52da305493c049eda723",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>This module only gives you a very basic overview of how to use the different things you will need to be successful in an online course. In order to cover these elements thoroughly, you&#39;ll need much more time. It is recommended that you take CIS 110 as a traditional, seated course in your first semester to help you build these skills.</p><p>Please talk to your advisor and register to take CIS 110 as soon as possible.</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "eighty",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3a6086305493c049eda727",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b34f159305493c049eda6f8",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Today, students can take online courses using a variety of devices. A desktop, laptop, or even a tablet or your smartphone can be used to take an online course. How you choose to do your work is, ultimately, up to you. However, you have to determine what works the best for you as a student. For example, it would probably be really difficult to write full, academic essays on your phone.</p><p>If you&#39;re going to buy a new computer, you want to make sure you get something reliable. You don&#39;t need to get something &quot;top of the line&quot; but a computer that is good enough to get you through your time in college, at least, before needing to upgrade. The College Store offers a few different models that will probably meet your needs, but you can shop around at other stores like Office Max or Best Buy and online at stores like Amazon to make sure you&#39;re getting the best deal. Store associates are often very helpful in making sure you get exactly what you need.</p><p>After you have your computer, you&#39;ll want to make sure the operating system is up-to-date. For the Blackboard LMS to work properly, the following operating system(s) are recommended:</p><ul><li>For PC: Windows 7 or higher</li><li>For Max, OS 10.4 or higher</li></ul><p>Some courses might require you to have a few, different pieces of hardware in addition to your computer. Check with your instructor, or look in your syllabus, to see if your course requires any additional components.</p><p>Some of the more common hardware requirements may include:</p><ul><li>A microphone</li><li>Speakers</li><li>A webcam</li><li>A printer</li></ul><p>Again, courses may or may not use these components. So, it is important to check to make sure you need them before buying anything.&nbsp;</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "seventy",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3a608b305493c049eda728",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b34f159305493c049eda6f8",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "thirty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"\"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530553359/OR/devices.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530553359/OR/devices.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3a6aae305493c049eda72a",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b3a5273305493c049eda71d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>You are responsible for the performance of your computer or whatever other devices you may use to take online courses. If something breaks, you could get behind on your&nbsp;work and miss deadlines. So, knowing what you need to do in order to get things fixed is important.</p><p>The CCC Help Desk provides support for student technology issues by phone, email, text, and in person during normal library hours.</p><ul><li><strong>Telephone support:</strong>&nbsp;(704) 669-4133&nbsp;</li><li><strong>On-Campus support:</strong>&nbsp;CCC Help Desk in the Rose Library&nbsp;</li><li><strong>Email support:</strong>&nbsp;CCChelpdesk@clevelandcc.edu</li></ul><p>Additional Help Desk support is available to students, 24 hours per day, 7 days per week through Blackboard Student Services. We&#39;ll discuss this later in the material.</p><p>When you contact tech support, make sure to tell them your problem clearly and with as much detail as possible. This is the point where having a good understanding of some of the terms you&#39;ve already learned really comes in handy. When you can give a good, detailed description of your problem, it is easier for the support person to determine and solve the problem you&#39;re having. The faster your problem can be fixed, the faster you can get back to work.</p><p>It is possible that your problem could be too big for the Help Desk to solve. In this case, you might need to seek out a trained technician that can repair your computer. Your Help Desk agent should be able to give you some suggestions on where to take your computer to get repairs if need be.</p><p>While you wait on your computer to get fixed, you shouldn&#39;t wait to&nbsp;do work&nbsp;in your online class. There are computers in the library that you can use. These computers are great if you leave your laptop at home, are getting your computer fixed, or you currently can&#39;t afford a good enough computer to take online classes. Support technicians in the library can help you with these computers if you need it.</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "seventy",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3a8490305493c049eda72e",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b34fdc0305493c049eda70a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/dragdrop/prosandcons/",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 1400,
+      "_medium": 1200,
+      "_large": 1000
+    }
+  },
+  {
+    "_id": "5b3b7484305493c049eda72f",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b3a5273305493c049eda71d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "thirty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"\"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530623029/OR/techdif.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530623029/OR/techdif.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3b91ae305493c049eda730",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b34fd8f305493c049eda708",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://app.ilosvideos.com/embed/LzifDOyhSmBo",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3b94c2305493c049eda731",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b350dac305493c049eda70d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/flash/mod1/",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 800,
+      "_medium": 800,
+      "_large": 800
+    }
+  },
+  {
+    "_id": "5b3b99cf305493c049eda739",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3b998b305493c049eda738",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://www.youtube.com/embed/Cv1KOhABlBE",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3b9a4b305493c049eda73a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3b97dc305493c049eda736",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://www.youtube.com/embed/oI3X0XW-xkI",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 579,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3b9a8a305493c049eda73c",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3b9a7f305493c049eda73b",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://www.youtube.com/embed/BQMQ7rVsXCY",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3bc4a2305493c049eda747",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3a521e305493c049eda719",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://www.youtube.com/embed/4eNTlwnnhss",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3bd01f305493c049eda749",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3a528c305493c049eda71f",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://www.youtube.com/embed/j-ZAVHk5SaU",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3bd073305493c049eda74a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3bcff1305493c049eda748",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://www.youtube.com/embed/lgIWIPDJuPo",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3bd0f9305493c049eda74c",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3bd0c8305493c049eda74b",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Which piece of productivity software would be most appropriate for writing a resume?</p>",
+    "displayTitle": "",
+    "title": "Test Yourself: Productivity Software",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Microsoft Word",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Microsoft Excel",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Good job!&nbsp;Microsoft Word is the most appropriate software to write your resume.</p>",
+      "_incorrect": {
+        "final": "<p>Sorry, that is incorrect. Please read the last section and watch the videos again before retrying this question.</p>",
+        "notFinal": "<p>Sorry, that is incorrect. Please read the last section and watch the videos again before retrying this question.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3e2823305493c049eda74d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3a523f305493c049eda71b",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/flash/mod2/",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 925,
+      "_medium": 925,
+      "_large": 925
+    }
+  },
+  {
+    "_id": "5b3e2855305493c049eda74e",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b34f15b305493c049eda6fb",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/flash/mod3/",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 900,
+      "_medium": 900,
+      "_large": 900
+    }
+  },
+  {
+    "_id": "5b3e2883305493c049eda74f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b34f15e305493c049eda6fe",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/flash/mod4/",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 775,
+      "_medium": 775,
+      "_large": 775
+    }
+  },
+  {
+    "_id": "5b3e28c2305493c049eda750",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b34f164305493c049eda701",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/flash/mod5/",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 800,
+      "_medium": 800,
+      "_large": 800
+    }
+  },
+  {
+    "_id": "5b3e2ec9305493c049eda751",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3a6042305493c049eda726",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Browsers",
+        "body": "<p>You&#39;ll want to make sure your browser is up-to-date. Browsers are pieces of software that allow you to browse the internet. Some content does not display properly or particular functions may not perform adequately in certain browsers; however, if you view the same content or page in a different browser, it will look and work perfectly. So make sure that if your instructor asks you to use a particular browser when completing a certain task, you follow his or her instructions. This may seem like a pain, especially if there is a certain browser that you prefer using when online, but trust us&mdash;it&#39;s all about compatibility. It is always a good idea to have several browsers installed on your machine when possible - that way you have a few options to choose from if you run into any problems.</p><p>Some popular browsers that will work with Blackboard include:</p><ul><li><a href=\"http://www.apple.com/safari/\">Apple Safari</a></li><li><a href=\"https://www.google.com/chrome\">Google Chrome</a></li><li><a href=\"http://www.microsoft.com/edge\">Microsoft Edge</a></li><li><a href=\"http://windows.microsoft.com/en-us/internet-explorer/download-ie\">Microsoft Internet Explorer</a></li><li><a href=\"https://www.mozilla.org/en-US/firefox/new/\">Mozilla Firefox</a></li></ul>",
+        "_graphic": {
+          "src": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530802312/OR/browser.png",
+          "alt": "\"\"",
+          "attribution": ""
+        },
+        "strapline": "Browsers"
+      },
+      {
+        "title": "Other Software",
+        "body": "<p>In addition to having a browser to view online content, sometimes your course will require you to install one or more of the following plugins so that you can view other media that the browser alone may not be able to handle: like animations, sound clips, PDFs, or any number of other things.</p><p>Some common plug-ins you may need to install could include:</p><ul><li><a href=\"https://java.com/download\">Java</a></li><li><a href=\"https://get.adobe.com/reader/\">Adobe Reader</a></li><li><a href=\"https://get.adobe.com/flashplayer/\">Flash Player</a></li><li><a href=\"http://windows.microsoft.com/en-us/windows/windows-media-player\">Windows Media Player</a></li><li><a href=\"https://support.apple.com/downloads/quicktime\">Apple Quicktime</a></li><li><a href=\"https://www.microsoft.com/getsilverlight\">Microsoft Silverlight</a></li></ul><p>These are free applications you can download from the internet, and your instructor (or even your computer) will let you know when you need a particular plug-in in order to view something.</p>",
+        "_graphic": {
+          "src": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530802585/OR/files.png",
+          "alt": "\"\"",
+          "attribution": ""
+        },
+        "strapline": "Other Software"
+      },
+      {
+        "title": "Email",
+        "body": "<p>You will also need to use your student email account. You&#39;ll be given an email address and password from Cleveland Community College. Make sure to check it every day because it is the primary form of communication for the college. You&#39;ll receive a lot of important information through your email, including messages from your instructor.</p><p>Your email password is the same password that you&#39;ll use for Blackboard. We&#39;ll talk more about the proper way to use email later on.</p>",
+        "_graphic": {
+          "src": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530802751/OR/mail.png",
+          "alt": "\"\"",
+          "attribution": ""
+        },
+        "strapline": "Email"
+      }
+    ]
+  },
+  {
+    "_id": "5b3e3436305493c049eda753",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3e33f4305493c049eda752",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>What is Cleveland Community College&#39;s primary method of communicating with students?</p>",
+    "displayTitle": "",
+    "title": "Test Yourself: Other Needs",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Email",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Letters",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Phone Calls",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "In-Class Messages",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s correct! The primary method of communication with students is by email. Make sure to check your student email every day.</p><div class=\"medal\"><p style=\"text-align: center;\"><strong>Congratulations! For answering this question correctly, you&#39;ve been awarded a &quot;Monty Medal.&quot;</strong></p></div>",
+      "_incorrect": {
+        "final": "<p>I&#39;m sorry, that is incorrect. Please re-read the last section to find the answer to this question and try again.</p>",
+        "notFinal": "<p>I&#39;m sorry, that is incorrect. Please re-read the last section to find the answer to this question and try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3e4053305493c049eda754",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3a52bc305493c049eda721",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://app.ilosvideos.com/embed/fu6sHER6ErR2",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3e435d305493c049eda755",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3b97b6305493c049eda732",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://app.ilosvideos.com/embed/bqf7dafsY7h3",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3e43e0305493c049eda757",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3e43c1305493c049eda756",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>If the area beside the name of your submission has an icon of an exclamation point inside of a yellow circle, what does that mean?</p>",
+    "displayTitle": "",
+    "title": "Test Yourself: Submitting Assignments",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Your submission was successful and waiting to be graded",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Your submission was successful and has already been graded",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your submission was unsuccessful",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your submission was late",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That is correct! If you see the described icon, it means your submission was successful and is now waiting for the instructor to grade it.</p><div class=\"medal\"><p style=\"text-align:center\"><strong>Congratulations! For answering this question correctly, you&#39;ve received a &quot;Monty Medal.&quot;</strong></p></div>",
+      "_incorrect": {
+        "final": "<p>That is incorrect. Please re-read the previous section and watch the videos again and then retry this question.</p>",
+        "notFinal": "<p>That is incorrect. Please re-read the previous section and watch the videos again and then retry this question.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3e45d1305493c049eda758",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3b97c9305493c049eda734",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://app.ilosvideos.com/embed/FyMT5ECHELmj",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3e4811305493c049eda75c",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b3e47b8305493c049eda759",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Since most of the online material you&#39;re going to encounter will be reading, it&#39;s important to learn how to read actively. Reading actively simply means to read purposefully and make an effort to understand and evaluate what you are reading.</p><p>Simply reading, and even re-reading, isn&#39;t an effective way to understand and learn. Use the following techniques to help you read actively:</p><ul><li>Underline or highlight key words and phrases as you read. When you return to it later on, you can easily see which points you identified as important. Be selective - too much highlighting won&#39;t help.</li><li>Make annotations in the margin to summarise points, raise questions, challenge what you&#39;ve read, jot down examples and so on. You can do this in printed books or online material. This takes more thought than highlighting, so you&#39;ll probably remember the content better. (Use sticky notes if you don&#39;t want to mark the text.)</li><li>Read critically by asking questions of the text. Who wrote it? When? Who is the intended audience? Does it link with other material you&#39;ve studied in the module? Why do you think it was written? Is it an excerpt from a longer piece of text?</li><li>Test yourself by reading for half an hour, putting the text away and jotting down the key points from memory. Go back to the text to fill in gaps.</li><li>Look for &#39;signposts&#39; that help you understand the text - phrases like &#39;most importantly&#39;, &#39;in contrast&#39;, &#39;on the other hand&#39;.</li><li>Explain what you&#39;ve read to someone else.</li><li>Record yourself reading the module material or your notes, and listen to the recording while you&#39;re traveling or doing household chores.</li></ul>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "seventy",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3e48f9305493c049eda75d",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b3e47b8305493c049eda759",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "thirty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"\"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530808800/OR/monty_reading.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530808800/OR/monty_reading.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3e60a1305493c049eda762",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3bb31b305493c049eda73d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/other/tmpersonality/",
+    "_scrolling": "auto",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 2200,
+      "_medium": 2100,
+      "_large": 1900
+    }
+  },
+  {
+    "_id": "5b3e61fd305493c049eda763",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b3bb37b305493c049eda743",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>&quot;My paper is due tomorrow and I haven&#39;t even started to write it yet! Aaaah!&quot; If this, or something close to it, sounds like you, you probably have a problem with procrastination. Here are some tips to help you avoid procrastinating and get to work. If you don&#39;t procrastinate, you&#39;ll have plenty of time to relax after you&#39;ve turned in your assignments, and you&#39;ll probably make better grades.</p><ol><li>Keep your studying &quot;bite-sized&quot;: when confronted with 150 pages of reading or 50 problems to solve, you may understandably feel overwhelmed. What if you decide that you will read for 45 minutes, or that you will solve 10 problems? That sounds much more manageable.</li><li>Turn off your phone, close your chat windows, and block distracting websites. The best advice we&#39;ve ever heard is to treat your studying as if you&#39;re in a movie theater&mdash;just turn it off!</li><li>Set up a reward system: if you read for 40 minutes, you can check your phone for 5 minutes. But keep in mind that reward-based systems only work if you stick to a code of self-honor.</li><li>Study in a place reserved for study ONLY. Your bedroom may have too many distractions (or the ever-present temptation of a quick nap&hellip;), so stay out of there when working on school assignments.</li><li>Use checklists: Make your incremental accomplishments visible. Some people get great satisfaction and motivation from checking items off a &quot;to do&quot; list. Be very specific when creating this list, and clearly describe each task one step at a time.</li></ol>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "seventy",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3e62a7305493c049eda764",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b3bb37b305493c049eda743",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "thirty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"\"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530546234/OR/Asset_3.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530546234/OR/Asset_3.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3e6302305493c049eda766",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3e62da305493c049eda765",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Let&#39;s say you&#39;re taking a three-credit-hour class, what is the minimum amount of time you should expect to spend studying and doing homework each week?</p>",
+    "displayTitle": "",
+    "title": "Test Yourself: How Much Time",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "6 Hours",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "1.5 Hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "3 Hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "9 Hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -2,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That&#39;s correct! You should expend twice the number of credit hours either studying or doing homework each week at the minimum.</p><div class=\"medal\"><p style=\"text-align:center\"><strong>Congratulations! For answering this question correctly, you&#39;ve been awarded a &quot;Monty Medal.&quot;</strong></p></div>",
+      "_incorrect": {
+        "final": "<p>Sorry, that is incorrect. Please watch the last video again and retry this question.</p>",
+        "notFinal": "<p>Sorry, that is incorrect. Please watch the last video again and retry this question.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3e6454305493c049eda767",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b3e47c9305493c049eda75a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>The discussion board your most used element for student to student communication.&nbsp;The&nbsp;discussion board&nbsp;(also known as a discussion forum, or message board) is one of the most popular features in a learning management system, and it&#39;s one place where your asynchronous classroom discussions can occur. Your instructor may post the first message (or prompt) and ask students to reply to their initial post, or they may choose to allow students to post a topic (or thread) and engage the class in the online conversation that way. Both methods are equally effective, and discussions in your online courses are likely to vary, just like your discussions in a traditional class can differ depending on your instructor and their personal teaching style.</p>",
+    "displayTitle": "Discussion Boards",
+    "title": "Discussion Boards",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "seventy",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3e64f0305493c049eda768",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b3e47c9305493c049eda75a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "thirty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"\"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530815845/OR/discussion.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530815845/OR/discussion.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3e65b9305493c049eda769",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3e4a35305493c049eda75e",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://www.youtube.com/embed/amJZXjxnhTI",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3e6646305493c049eda76b",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3e6629305493c049eda76a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Which type of communication is email?</p>",
+    "displayTitle": "",
+    "title": "Test Yourself: Communication",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Asynchronous Communication",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Synchronous Communication",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That is correct! Email is a form of asynchronous&nbsp;communication</p>",
+      "_incorrect": {
+        "final": "<p>That is incorrect. Please re-read the last section and try again.</p>",
+        "notFinal": "<p>That is incorrect. Please re-read the last section and try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3e6b64305493c049eda76d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3e6713305493c049eda76c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/dragdrop/netiquette/",
+    "_scrolling": "yes",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 1400,
+      "_medium": 1200,
+      "_large": 1000
+    }
+  },
+  {
+    "_id": "5b3f72d1305493c049eda76e",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3bb363305493c049eda741",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/other/timepriority/",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 600,
+      "_medium": 600,
+      "_large": 600
+    }
+  },
+  {
+    "_id": "5b3f834c305493c049eda76f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3e4a4c305493c049eda760",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://app.ilosvideos.com/embed/LueHlK9PakQi",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3f8942305493c049eda770",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3bb3c3305493c049eda745",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://app.ilosvideos.com/embed/LwtatL3GcPoQ",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 292,
+      "_medium": 427,
+      "_large": 576
+    }
+  },
+  {
+    "_id": "5b3faf81305493c049eda771",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3bb32e305493c049eda73f",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "http://areyouonlineready.com/course/other/scheduler/",
+    "_scrolling": "yes",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 1200,
+      "_medium": 1200,
+      "_large": 1200
+    }
+  },
+  {
+    "_id": "5b3fb436305493c049eda772",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5b352939305493c049eda711",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Now that you&#39;ve completed this material, there are only two things left to do:</p><ul><li>Take the test</li><li>Visit your advisor to create a plan for online success</li></ul><p>The test is below. It consists of 10 questions. There are 2 questions from each module. Read each question and click &quot;Submit&quot; to save your answer. If you get, at least, 8 out of 10 correct, you will have successfully completed this material and will receive a certificate. Otherwise, it is highly suggested that you go back to the beginning and try again.</p><p>Your advisor can help you with a lot of different things here at Cleveland Community College. So, you should try to stay in contact with him or her regularly so you can make sure you&#39;re progressing as you should be. Developing a plan with your advisor for you to be able to maintain your success in all classes, online included, can go a long way to helping you achieve your goals.</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "seventy",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5b3fb626305493c049eda773",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5b352939305493c049eda711",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "thirty",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"\"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530883465/OR/monty.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1530883465/OR/monty.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b3fb684305493c049eda77f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb671305493c049eda77e",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p style=\"text-align:center\">{{{feedback}}}</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "assessmentResults",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": false,
+    "_assessmentId": "FinalTest",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": ""
+    },
+    "_completionBody": "<p style=\"text-align:center\">{{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 80,
+        "feedback": "<p><strong>Final Score: {{{score}}}</strong></p><p>Congratulations, you&#39;ve passed the final test. You can download your certificate here:</p><p style=\"text-align:center\"><strong><a href=\"http://res.cloudinary.com/dwuwuaov5/image/upload/v1530882192/OR/CertificateOfCompletion.pdf\" target=\"_blank\">Are You Online Ready Certificate</a></strong></p><p>It&#39;s time to make a plan with your advisor and enjoy taking online classes.</p><div class=\"medal\"><p style=\"text-align:center\"><strong>Also, here&#39;s one last &quot;Monty Medal.&quot;</strong></p></div><p style=\"text-align:center\">&nbsp;</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 0,
+        "feedback": "<p><strong>Final Score: {{{score}}}</strong></p><p>I&#39;m sorry, but you did not meet the score needed to pass this material. Please review all of the material and try again. You can take this test as many times as necessary in order to pass.</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_id": "5b3fb690305493c049eda780",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb66f305493c049eda77d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>A red exclamation mark icon beside an assignment in your Blackboard gradebook&nbsp;denotes what?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "A failed submission",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A successful submission waiting to be graded",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A successful  submission that has already been graded",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "An overdue submission",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb695305493c049eda781",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb66d305493c049eda77c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Having a clean, quiet place that you use only for studying is great for what?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Preventing procrastination",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Prioritizing your time",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Creating a schedule",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Time management",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb699305493c049eda782",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb66c305493c049eda77b",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>If you&#39;re taking a 5 credit-hour class, how much time should you expect to spend working on homework and studying?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "10 hours",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "5 hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "2.5 hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "15 hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb6a0305493c049eda783",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb66a305493c049eda77a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Explaining what you&#39;ve studied to someone else is an example of what?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Active reading",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Asynchronous communication",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Synchronous communication",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Effective email",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb6a7305493c049eda784",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb669305493c049eda779",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Which of the following is a form of asynchronous communication?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Discussion board",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Telephone",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Video conferencing",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Google Hang-Outs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb6bc305493c049eda785",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb663305493c049eda778",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>What is the name of the computer component that contains most of the important parts of your computer?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Motherboard",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Monitor",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Graphics card",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Mouse",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb6c0305493c049eda786",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb662305493c049eda777",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Your Blackboard username and password is the same as your username and password for what?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Student email address",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Classroom code",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Personal email address",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "PIN Number",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb6c4305493c049eda787",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb660305493c049eda776",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Windows 7, Windows 10, and Mac OS are examples of what?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Operating systems",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Productivity software",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Computers",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Browsers",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb6c8305493c049eda788",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb65d305493c049eda775",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>Which of the following are expected of you in an online class? (Select all that apply)</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Read or watch all course material",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Participate in discussions and other activities",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Use the LMS to submit your assignments",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Create assignments and receive your assignment submissions",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b3fb6cd305493c049eda789",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b3fb63b305493c049eda774",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>What is a learning management system?</p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The \"online classroom\" where you'll access your courses",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The software that automatically grades exams",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The website you visit to register for classes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The software your instructor uses to take attendance",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 10,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b43647b305493c049eda78f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b4363c4305493c049eda78e",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\" \"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b43649f305493c049eda791",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b43649b305493c049eda790",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\" \"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b4364f8305493c049eda793",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b4364e3305493c049eda792",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\" \"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b43651f305493c049eda795",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b43651b305493c049eda794",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\" \"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b436571305493c049eda797",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b436559305493c049eda796",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\" \"",
+      "large": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "small": "http://res.cloudinary.com/dwuwuaov5/image/upload/v1531143270/OR/footer.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5b4365cb305493c049eda799",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b4365a3305493c049eda798",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "<p>True or False: Taking online courses requires personal discipline to make sure you stay up-to-date with in-class participation and meeting assignment deadlines.</p>",
+    "displayTitle": "",
+    "title": "Test Yourself: Pros and Cons",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>That is correct. There won&#39;t, necessarily, be anyone looking over your shoulder in an online course to make sure you&#39;re reading and turning in your work on time. This is not to say, however, that your instructor won&#39;t be there to help you. He or she absolutely will. However, you still have to be proactive.</p>",
+      "_incorrect": {
+        "final": "<p>That is incorrect. Please re-visit the last activity and then try this question again.</p>",
+        "notFinal": "<p>That is incorrect. Please re-visit the last activity and then try this question again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5b4367ac305493c049eda79b",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b436783305493c049eda79a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469306065&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 200,
+      "_medium": 200,
+      "_large": 200
+    }
+  },
+  {
+    "_id": "5b4369b4305493c049eda79d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b436974305493c049eda79c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469308045&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 200,
+      "_medium": 200,
+      "_large": 200
+    }
+  },
+  {
+    "_id": "5b436a4b305493c049eda79f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b436a08305493c049eda79e",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469309020&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 200,
+      "_medium": 200,
+      "_large": 200
+    }
+  },
+  {
+    "_id": "5b436aeb305493c049eda7a1",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b436aa1305493c049eda7a0",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469310940&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 200,
+      "_medium": 200,
+      "_large": 200
+    }
+  },
+  {
+    "_id": "5b436bca305493c049eda7a3",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b436b60305493c049eda7a2",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469311900&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 200,
+      "_medium": 200,
+      "_large": 200
+    }
+  },
+  {
+    "_id": "5b436c32305493c049eda7a5",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5b436c05305493c049eda7a4",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_source": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469312911&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 519,
+      "_medium": 759,
+      "_large": 1024
+    },
+    "_height": {
+      "_small": 200,
+      "_medium": 200,
+      "_large": 200
+    }
+  }
+]

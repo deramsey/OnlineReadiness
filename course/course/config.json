@@ -1,0 +1,78 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_logging": {
+    "_console": false,
+    "_level": null,
+    "_isEnabled": false
+  },
+  "__v": 0,
+  "_courseId": "5b2d5065305493c049eda6ef",
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_accessibility": {
+    "_isSkipNavigationEnabled": true,
+    "_isTextProcessorEnabled": true,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isEnabledOnTouchDevices": true,
+    "_isEnabled": true
+  },
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_id": "5b2d5065305493c049eda6f0",
+  "_spoor": {
+    "_advancedSettings": {
+      "_commitOnVisibilityChangeHidden": true,
+      "_suppressErrors": false,
+      "_commitRetryDelay": 2000,
+      "_maxCommitRetries": 5,
+      "_timedCommitFrequency": 10,
+      "_commitOnStatusChange": true,
+      "_showDebugWindow": false
+    },
+    "_reporting": {
+      "_resetStatusOnLanguageChange": false,
+      "_onAssessmentFailure": "incomplete",
+      "_onTrackingCriteriaMet": "completed"
+    },
+    "_tracking": {
+      "_shouldRecordInteractions": true,
+      "_shouldStoreResponses": false,
+      "_shouldSubmitScore": false,
+      "_requireAssessmentPassed": false,
+      "_requireCourseCompleted": true
+    },
+    "_isEnabled": true
+  },
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "build": {
+    "includes": [
+      "5a822c7ba7c4a81e389a99be",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-assessment",
+      "adapt-contrib-spoor",
+      "adapt-contrib-tutor",
+      "adapt-contrib-trickle",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-drawerPageNavigation",
+      "adapt-contrib-responsiveIframe",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-mcq",
+      "adapt-contrib-narrative",
+      "adapt-contrib-assessmentResults"
+    ]
+  }
+}
