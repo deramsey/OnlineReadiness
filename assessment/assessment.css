@@ -88,4 +88,6 @@ p, li{
 .logo {
   margin: 18px;
   float: right;
+  width: 100px;
+  aspect-ratio: 1/1;
 }
